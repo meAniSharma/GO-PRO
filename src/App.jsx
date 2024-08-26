@@ -47,9 +47,9 @@ function App() {
           your cricket.
         </p>
       </div>
-      <div className="sec-h1">
+      <div className="sec-one">
         <h1>"---WHY CHOOSE US?---"</h1>
-        <div className="sec-two">
+        <div className="sec-one-part-1">
           <div className="points-3">
             <h3>LEVEL UP 01</h3>
               <p>

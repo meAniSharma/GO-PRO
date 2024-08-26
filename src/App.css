@@ -111,7 +111,7 @@
   padding-bottom: 20px;
 }
 /* 
-.sec-two{
+.sec-one-part-1{
   display: inline;
   text-align: center;
   margin-top: 50px;
@@ -121,7 +121,7 @@
   color: rgb(59, 82, 82);
 } */
 
-.sec-two {
+.sec-one-part-1 {
   /* margin-left: 60px; */
   /* margin-right: auto; */
   /* overflow: hidden; */
@@ -138,7 +138,7 @@
   /* width: 956px; */
 }
 
-.sec-h1{
+.sec-one{
   justify-content: center;
   text-align: center;
   font-size: 26px;
@@ -147,7 +147,7 @@
   font-style: italic;
 }
 
-.sec-two h3{
+.sec-one-part-1 h3{
   color: rgb(66, 153, 16);
   font-size: 30px;
   font-weight: 700;
@@ -156,7 +156,7 @@
   margin-top: 30px;
 
 }
-.sec-two p{
+.sec-one-part-1 p{
   color: rgb(92, 97, 89);
 }
 
@@ -249,7 +249,6 @@
         linear-gradient(0deg, rgba(146, 187, 50, 0.333), #9725),
         url(https://i.ibb.co/vJt5HSh/noisy-texture-300x300-o10-d10-c-a82851-t1.png);
         /* url(https://i.ibb.co/m4sGRmK/pexels-pixabay-247431.jpg); */
-    /* background-size: auto, auto, auto, cover; */
   width: 400px;
   height: 380px;
   border-radius: 100px;
